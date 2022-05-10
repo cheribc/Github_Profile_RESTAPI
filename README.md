@@ -1,13 +1,10 @@
 # Github_Profile_RESTAPI
 
-## Description
+### Description
 
 This application is a REST API to create GitHub user card profiles using Axios to request information from the GitHub REST API. The profile cards will display certain user profile fields, such as username, # followers, # following, recent repos, and bio information from the user's GitHub profile information.
 
 ---
-
----
-
 
 #### Table of Contents
 
@@ -30,6 +27,8 @@ This application is a REST API to create GitHub user card profiles using Axios t
 ### How to Use
 
 - Open the application by clicking the deployed app link
+    > https://cheribc.github.io/Github_Profile_RESTAPI/
+
 - Enter the GitHub Username for the user to search
 ![homepage-demo-image](assets/Github_profile_app_homescreen.png)  
 
