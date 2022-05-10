@@ -6,7 +6,10 @@ This application is a REST API to create GitHub user card profiles using Axios t
 
 ---
 
-### Table of Contents
+---
+
+
+#### Table of Contents
 
 [Description](#description)
 
@@ -28,7 +31,12 @@ This application is a REST API to create GitHub user card profiles using Axios t
 
 - Open the application by clicking the deployed app link
 - Enter the GitHub Username for the user to search
+![homepage-demo-image](assets/Github_profile_app_homescreen.png)  
+
 - Press `Enter` to view the profile card
+  
+![user-profile-card-image](assets/user_profile_card_demo.png)
+
 
 
 ---
@@ -39,8 +47,6 @@ This application is a REST API to create GitHub user card profiles using Axios t
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
 
 
 --- 
